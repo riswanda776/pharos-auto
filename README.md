@@ -20,8 +20,8 @@ This is implementation of the Pharos Testnet automation tool. It helps automate 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd pharos-node
+git clone https://github.com/riswanda776/pharos-auto
+cd pharos-auto
 ```
 
 2. Install dependencies:
