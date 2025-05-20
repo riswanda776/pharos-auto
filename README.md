@@ -29,7 +29,6 @@ cd pharos-node
 npm install
 ```
 
-
 3. Create a `privateKeys.txt` file in the root directory with your private keys (one per line):
 ```
 0x123...
@@ -62,7 +61,6 @@ pharos-node/
 ## Security Notes
 
 - Never share your private keys
-- Keep your `.env` file secure
 - Use a dedicated wallet for testing
 - Monitor your transactions
 
