@@ -1,6 +1,6 @@
-# Pharos Testnet Automation Tool (Node.js Version)
+# Pharos Testnet Automation Tool
 
-This is a Node.js implementation of the Pharos Testnet automation tool. It helps automate various tasks on the Pharos testnet, including token swaps, transfers, and staking.
+This is implementation of the Pharos Testnet automation tool. It helps automate various tasks on the Pharos testnet, including token swaps, transfers, and staking.
 
 ## Features
 
